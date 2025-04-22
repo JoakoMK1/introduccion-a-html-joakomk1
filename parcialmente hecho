@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>parte1</title>
+</head>
+
+<body>
+    <li>
+        <p><a href="https://www.ford.com.ar/support">Propietarios Ford</a></p>
+    </li>
+    <li>
+        <p><a href="/mis-experiencias-ford.html">Mis Experiencias Ford</a></p>
+    </li>
+
+    <li>
+        <p><a href="https://www.ford.com.ar/support/owner-manuals">Manuales</a></p>
+    </li>
+
+    <li>
+        <p><a href="/sistema-sync.html">Pantalla SYNC</a></p>
+    </li>
+
+    <li>
+        <p><a href="/posventa/ford-assistance.html">Ford Assistance</a></p>
+    </li>
+
+    <header>
+        <H1>FORD SAPAC Consecionario</H1>
+        <h3>Catálogo:</h3>
+        <li><a href="F150 tremor"></a></li>
+
+    </header>
+    <footer></footer>
+</body>
+
+</html>
